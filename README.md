@@ -1,2 +1,2 @@
 # examen
-Examen para la empresa KY Consulting
+Examen para la empresa EFFITEC
