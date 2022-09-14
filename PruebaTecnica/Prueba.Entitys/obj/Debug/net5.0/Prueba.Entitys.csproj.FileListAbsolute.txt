@@ -1,0 +1,12 @@
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\bin\Debug\net5.0\Prueba.Entitys.deps.json
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\bin\Debug\net5.0\Prueba.Entitys.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\bin\Debug\net5.0\ref\Prueba.Entitys.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\bin\Debug\net5.0\Prueba.Entitys.pdb
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.AssemblyInfoInputs.cache
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.AssemblyInfo.cs
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\ref\Prueba.Entitys.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.pdb
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Entitys\obj\Debug\net5.0\Prueba.Entitys.csproj.AssemblyReference.cache

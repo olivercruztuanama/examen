@@ -1,0 +1,17 @@
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.Unitofwork.deps.json
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.Unitofwork.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\ref\Prueba.Unitofwork.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.Unitofwork.pdb
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.Entitys.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.ORM.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.ORM.pdb
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\bin\Debug\net5.0\Prueba.Entitys.pdb
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.csproj.AssemblyReference.cache
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.AssemblyInfoInputs.cache
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.AssemblyInfo.cs
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.csproj.CoreCompileInputs.cache
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.csproj.CopyComplete
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\ref\Prueba.Unitofwork.dll
+C:\Users\aries\Documents\EFFITEC\PruebaTecnica\Prueba.Unitofwork\obj\Debug\net5.0\Prueba.Unitofwork.pdb
